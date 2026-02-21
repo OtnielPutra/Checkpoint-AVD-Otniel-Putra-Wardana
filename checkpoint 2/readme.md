@@ -14,6 +14,8 @@ yang ditambahkan dari checkpoint 2 yaitu saya menambahkan bagian yaitu
 
 masing-masing dari bagian ini berguna dalam pemahaman dataset yang dimiliki.
 
+link collab : https://colab.research.google.com/drive/1omjlrCRJKFmFTOTxOj9v-PTRJMZNppPe?usp=sharing
+
 # Data Understanding
 
 pada bagian data understanding, kita diminta untuk memahami dari data yang kita miliki. seperti
