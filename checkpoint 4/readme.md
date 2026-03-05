@@ -15,6 +15,8 @@ Link collab :
 
 ---
 
+### Bar Chart
+
 Bar Chart digunakan untuk melihat **perbandingan jumlah penjualan dari beberapa menu** yang ada dalam dataset. Dengan grafik ini, dapat diketahui menu mana yang memiliki jumlah penjualan lebih tinggi dibandingkan menu lainnya.
 
 ### Pie Chart
