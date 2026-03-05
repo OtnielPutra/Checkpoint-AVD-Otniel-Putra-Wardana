@@ -1,13 +1,14 @@
 # Checkpoint-4-AVD
 
 Nama : Otniel Putra Wardana
+
 NIM : 2509116081
 
 ---
 
 # Yang Dilakukan Pada Checkpoint 4
 
-Pada checkpoint 3 ini, saya menambahkan beberapa tahapan visualisasi data dengan **Matplotlib** dan **seaborn**. yang digunakan pada checkpoint ini meliputi beberapa jenis grafik yaitu **Bar Chart, Pie Chart, Line Chart, Histogram, Boxplot, Scatter Plot, dan Heatmap**. Masing-masing visualisasi digunakan untuk melihat pola, distribusi, hubungan antar variabel, serta perbandingan data secara lebih jelas.
+Pada checkpoint 4 ini, saya menambahkan beberapa tahapan visualisasi data dengan **Matplotlib** dan **seaborn**. yang digunakan pada checkpoint ini meliputi beberapa jenis grafik yaitu **Bar Chart, Pie Chart, Line Chart, Histogram, Boxplot, Scatter Plot, dan Heatmap**. Masing-masing visualisasi digunakan untuk melihat pola, distribusi, hubungan antar variabel, serta perbandingan data secara lebih jelas.
 
 Link collab :
 [https://colab.research.google.com/drive/1omjlrCRJKFmFTOTxOj9v-PTRJMZNppPe?usp=sharing](https://colab.research.google.com/drive/1omjlrCRJKFmFTOTxOj9v-PTRJMZNppPe?usp=sharing)
@@ -39,7 +40,3 @@ Scatter Plot digunakan untuk melihat **hubungan antara dua variabel numerik**, m
 ### Heatmap
 
 Heatmap digunakan untuk melihat **korelasi antar variabel numerik dalam dataset**, seperti item_price, quantity, dan transaction_amount. Dengan heatmap, dapat diketahui hubungan antar variabel apakah memiliki korelasi yang kuat, sedang, atau lemah.
-
----
-
-Kalau kamu mau, aku juga bisa bantu **merapikan bagian ini supaya lebih terlihat seperti laporan kampus (biasanya dosen suka format seperti itu)** tanpa mengubah isi yang sudah kamu buat.
