@@ -8,7 +8,16 @@ NIM : 2509116081
 
 # Yang Dilakukan Pada Checkpoint 4
 
-Pada checkpoint 4 ini, saya menambahkan beberapa tahapan visualisasi data dengan **Matplotlib** dan **seaborn**. yang digunakan pada checkpoint ini meliputi beberapa jenis grafik yaitu **Bar Chart, Pie Chart, Line Chart, Histogram, Boxplot, Scatter Plot, dan Heatmap**. Masing-masing visualisasi digunakan untuk melihat pola, distribusi, hubungan antar variabel, serta perbandingan data secara lebih jelas.
+Pada checkpoint 4 ini, saya menambahkan beberapa tahapan visualisasi data dengan **Matplotlib** dan **seaborn**. yang digunakan pada checkpoint ini meliputi beberapa jenis grafik yaitu 
+* Bar Chart
+* Pie Chart
+* Line Chart
+* Histogram
+* Boxplot
+* Scatter Plot
+*Heatmap
+
+Masing-masing visualisasi digunakan untuk melihat pola, distribusi, hubungan antar variabel, serta perbandingan data secara lebih jelas.
 
 Link collab :
 [https://colab.research.google.com/drive/1omjlrCRJKFmFTOTxOj9v-PTRJMZNppPe?usp=sharing](https://colab.research.google.com/drive/1omjlrCRJKFmFTOTxOj9v-PTRJMZNppPe?usp=sharing)
