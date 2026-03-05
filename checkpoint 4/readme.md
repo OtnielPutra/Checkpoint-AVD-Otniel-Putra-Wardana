@@ -1,7 +1,3 @@
-Berikut versi yang **dimodifikasi sesuai dengan jenis visualisasi yang kamu gunakan**. Saya tetap mempertahankan gaya tulisan kamu agar terlihat natural.
-
----
-
 # Checkpoint-4-AVD
 
 Nama : Otniel Putra Wardana
